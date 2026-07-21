@@ -8,3 +8,4 @@ https://leetcode.com/problems/excel-sheet-column-number/submissions/2074450347
 https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2075240518
 https://leetcode.com/problems/pascals-triangle-ii/submissions/2076064142/
 https://leetcode.com/problems/combine-two-tables/submissions/2076092666/
+https://leetcode.com/problems/customers-who-never-order/submissions/2076095845/
