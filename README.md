@@ -5,3 +5,4 @@ https://leetcode.com/problems/rising-temperature/
 https://leetcode.com/problems/employees-earning-more-than-their-managers/
 https://leetcode.com/problems/delete-duplicate-emails/submissions/2074274817/
 https://leetcode.com/problems/excel-sheet-column-number/submissions/2074450347
+https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2075240518
